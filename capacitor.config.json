@@ -1,0 +1,8 @@
+{
+  "appId": "br.com.orangets",
+  "appName": "Restaurate App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
